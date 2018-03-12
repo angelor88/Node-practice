@@ -1,5 +1,5 @@
-
-// import '../css/styles.css';
+import './styles.css';
+import $ from 'jquery';
 import { pingPong } from './ping-pong';
 
 $(document).ready(function() {
